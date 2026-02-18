@@ -76,3 +76,19 @@ Data exploration filters that are interactive.
 
 The dashboard can be interacted by users to learn various insights.
 
+# Key Insights
+
+Insight 1: Majority of the reviews are favorable.
+Over 70 percent of customer ratings are 4 and 5 stars. This indicates that majority of customers are contented with the products.
+
+Insight 2: The more helpful votes are obtained by higher ratings.
+The reviews that are rated higher tend to have high helpfulness ratios. This implies that the customers have more confidence in favorable reviews.
+
+Insight 3: Customer review activity grew with the time.
+The reviews began to become large in the number. This demonstrates increased customer activity on online shopping.
+
+Insight 4: Helpfulness ratio is used to find trusted reviews.
+The reviews that have higher ratios of helpfulness are more beneficial to customers. These critiques have a very powerful impact on purchase decisions.
+
+# Tableau Dashboard Link
+
