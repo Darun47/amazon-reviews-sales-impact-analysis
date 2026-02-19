@@ -92,6 +92,8 @@ The reviews that have higher ratios of helpfulness are more beneficial to custom
 
 # Tableau Dashboard Link
 https://public.tableau.com/views/AmazonReviewsDataStorytellingDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+<img width="722" height="423" alt="image" src="https://github.com/user-attachments/assets/10599cae-1b40-4806-b50a-87fdb8ac02b3" />
+
 
 ## Author
 ### Name: S. DARUN
