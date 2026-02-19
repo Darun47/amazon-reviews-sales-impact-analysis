@@ -94,7 +94,7 @@ The reviews that have higher ratios of helpfulness are more beneficial to custom
 https://public.tableau.com/views/AmazonReviewsDataStorytellingDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Author
-Name: S. DARUN
-Student ID: 1000309
-Course: Artificial Intelligence
-Course Name: The Art of Storytelling with Data
+### Name: S. DARUN
+### Student ID: 1000309
+### Course: Artificial Intelligence
+### Course Name: The Art of Storytelling with Data
