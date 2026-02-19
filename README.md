@@ -91,4 +91,4 @@ Insight 4: Helpfulness ratio is used to find trusted reviews.
 The reviews that have higher ratios of helpfulness are more beneficial to customers. These critiques have a very powerful impact on purchase decisions.
 
 # Tableau Dashboard Link
-
+https://public.tableau.com/views/AmazonReviewsDataStorytellingDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
