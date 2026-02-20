@@ -90,6 +90,15 @@ The reviews began to become large in the number. This demonstrates increased cus
 Insight 4: Helpfulness ratio is used to find trusted reviews.
 The reviews that have higher ratios of helpfulness are more beneficial to customers. These critiques have a very powerful impact on purchase decisions.
 
+# Repository Structure
+## data → cleaned dataset   
+## tableau → Tableau dashboard file (.twbx)  
+## README.md → project documentation  
+
+# Conclusion
+
+This project shows how data storytelling can transform customer reviews into valuable business insights. The Tableau dashboard helps understand customer behavior, product performance, and review trends. These insights can help businesses improve customer satisfaction and make better decisions.
+
 # Tableau Dashboard Link
 https://public.tableau.com/views/AmazonReviewsDataStorytellingDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 <img width="722" height="423" alt="image" src="https://github.com/user-attachments/assets/10599cae-1b40-4806-b50a-87fdb8ac02b3" />
